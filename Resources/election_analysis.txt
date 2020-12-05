@@ -1,0 +1,17 @@
+
+Election Results
+
+------------------------
+
+Total Votes: 369,711
+---------------------
+Arapahoe
+Denver
+JeffersonCharles Casper Stockham: 0.0% (0)
+Diana DeGette: 0.0% (0)
+Raymon Anthony Doane: 0.0% (1)
+-----------------------
+Winner: Raymon Anthony Doane
+Winnning vote count: 1
+Winning percentage: 0.0%
+-----------------------
